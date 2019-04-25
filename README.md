@@ -23,9 +23,10 @@ Momentan Abrufbare Informationen:
 Das Programm kann nicht nur diese Informationen Auslesen, sondern auch in einzelne txt Dokumente abspeichern.
 
 Unterstützte Betriebssysteme:
-Windows 10
+ - Windows 10
+
 Bedingt unter
-Windows 7/8/XP/Vista
+ - Windows 7/8/XP/Vista
 
 Bei Fragen einfach auf dem Discord Melden :
 https://discord.gg/ZXMAFq7
