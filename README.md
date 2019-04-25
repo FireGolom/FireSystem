@@ -21,3 +21,7 @@ Momentan Abrufbare Informationen:
 - Lizenzstatus
 
 Das Programm kann nicht nur diese Informationen Auslesen, sondern auch in einzelne txt Dokumente abspeichern.
+
+
+Bei Fragen einfach auf dem Discord Melden :
+https://discord.gg/ZXMAFq7
